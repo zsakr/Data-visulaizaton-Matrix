@@ -1,6 +1,5 @@
 ##
 # Ziad Sakr
-# extra credit part
 # March 18-2018
 ##
 
