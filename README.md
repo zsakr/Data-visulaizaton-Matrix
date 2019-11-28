@@ -17,6 +17,6 @@ I used Numpy, Pandas, to help me to visulaize the excel file and matplotlip for 
 For this project I am creating a cahsier calculator for a coffeshop. The purpose here was to learn how to use different functoins and libraries in python.
 
 # FileName: 
-    ziad-sakr-piechart.py
+    ziad.sakr.hw6.pieChart.py
     
 For this project I created a comparison between the population in Egypt and USA. The puspose of this project was to learn how to use matplotlip by creating a pie chart.
