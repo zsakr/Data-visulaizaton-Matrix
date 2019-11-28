@@ -1,6 +1,7 @@
 # Data Analytics projects
 
-# FileName: Append-Data
+# FileName: 
+    Append data to empty space.ipynb
  I created a self-led project after identifying one of the company’s biggest problems. 
 Since the first day of my internship I realized that Matrix has many “End of Day” reports. These reports include their position performance at the end of the trading day. However, these reports lacked organization and were inefficient ways to organize their data. I remember many of the analysts faced significant problems that took a lot of time just to get access to a specific data set that they needed. After I saw that, I thought that I could come up with a solution that can fix this problem by making it easier for them to search for the data that they needed. I first created a large data base file that had all the information the analysts needed.
 
