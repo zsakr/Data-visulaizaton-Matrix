@@ -1,3 +1,3 @@
-# Data Analyst projects
+# Data Analytics projects
 
 
